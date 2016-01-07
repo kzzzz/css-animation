@@ -21,6 +21,7 @@
 
 ## animation-timing-function
 - predefined keywords
+  - ease/linear/ease-in/ease-out/ease-in-out
 - cubic Bézier curves
 - steps
 
@@ -38,4 +39,3 @@
   animation: bounce-in 1s ease-in 2 alternate forwards;
 }
 ```
-
